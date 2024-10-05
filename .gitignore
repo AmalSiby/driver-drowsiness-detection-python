@@ -8,3 +8,6 @@ __pycache__/
 
 # Ignore all .mp4 files
 *.mp4
+
+sms.py
+test.py
