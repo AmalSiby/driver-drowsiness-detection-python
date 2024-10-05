@@ -3,6 +3,8 @@ __pycache__/
 
 # Ignore .idea folder (commonly used by JetBrains IDEs like PyCharm)
 .idea/
+.env
+
 
 # Ignore all .mp4 files
 *.mp4
